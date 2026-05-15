@@ -40,6 +40,6 @@ $(function(){
         toolbox:toolbox
     })
     $('#generateCode').on('click',function(){
-        $('#generatedCode').val(javascriptGenerator.workspaceToCode(workspace))
+        $('#generatedCode').val(javascript.javascriptGenerator.workspaceToCode(workspace))
     })
 })
