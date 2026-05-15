@@ -1,4 +1,4 @@
-import { javascriptGenerator } from "./packages/blockly/javascript.js"
+//import { javascriptGenerator } from "./packages/blockly/javascript.js"
 $(function(){
     // Create toolbox
     var toolbox = {
